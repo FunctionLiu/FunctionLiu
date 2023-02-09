@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FunctionLiu from Taiwan 
-- 👀 I’m interested in music, movies, and reading
-- 🌱 I’m currently learning Python, R, and SQL
-- 💞️ I'm going to get my master's degree of BA business analytics in 2023-fall
-- 📫 Please reach me via LinkedIn: https://www.linkedin.com/in/nien-hua-liu-06b945201/
+- 👋 Hi there! I am currently learning Python, R, and SQL. 
+- 👀 I will become a student studying MSBA in UCI this fall~ How exciting!
+- 📫 I am open to internships opportunities ^^ Feel free to contact me via LinkedIn:
+- https://www.linkedin.com/in/nien-hua-liu-06b945201/
 
 <!---
 FunctionLiu/FunctionLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
